@@ -1,6 +1,6 @@
 <img src="presentation.png"  />
 <div align="center">
-  <a href="http://linkedin.com/in/maxborquez" target="blank"><img align="center" src="https://github.com/maxborquez/maxborquez/icons/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+  <a href="http://linkedin.com/in/maxborquez" target="blank"><img align="center" src="icons/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>

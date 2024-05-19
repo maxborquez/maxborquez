@@ -1,8 +1,5 @@
 <img src="image/presentation.png" alt="presentation" />
 
-<div align="center">
-  <a href="http://linkedin.com/in/maxborquez" target="blank"><img align="center" src="icons/transparent-Linkedin-logo-icon.png" alt="linkedin logo" height="30" /></a>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -19,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Maximiliano Bórquez from Chile<br><br>- 🔭 I’m studing at UBB<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I play videogames</p>
+<p align="left">I'm Maximiliano Bórquez from Chile<br><br>- 🧑‍🎓 I’m studyng at UBB<br>- 📚 I'm currently learning React<br>- 🎮 In my free time I play a lot of video games</p>
 
 ###
 

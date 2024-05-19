@@ -1,3 +1,5 @@
+<img src="image/presentation.png" alt="presentation" />
+
 <div align="center">
   <a href="http://linkedin.com/in/maxborquez" target="blank"><img align="center" src="icons/transparent-Linkedin-logo-icon.png" alt="linkedin logo" height="30" /></a>
 

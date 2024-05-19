@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/maxborquez/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
